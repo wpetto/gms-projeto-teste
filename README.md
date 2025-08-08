@@ -20,13 +20,10 @@ Este projeto tem como objetivo automatizar testes de funcionalidades web e APIs 
 - Node.js instalado (versão 14 ou superior)  
 - NPM instalado  
 
-### Passos
+### Passo 1
 
-1. Clone este repositório:  
+Clone este repositório:  
 ```bash
 git clone https://github.com/wpetto/gms-projeto-teste.git
-
-2.Abre a pasta:  
-```bash
 cd gms-projeto-teste
 
