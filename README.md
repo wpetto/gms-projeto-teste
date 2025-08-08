@@ -1,5 +1,3 @@
-# gms-projeto-teste
-
 # Projeto de Testes Automatizados - GMS
 
 ## 📋 Descrição
@@ -27,4 +25,5 @@ Este projeto tem como objetivo automatizar testes de funcionalidades web e APIs 
 1. Clone este repositório:  
 ```bash
 git clone https://github.com/wpetto/gms-projeto-teste.git
+```bash
 cd gms-projeto-teste
