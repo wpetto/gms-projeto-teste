@@ -25,5 +25,8 @@ Este projeto tem como objetivo automatizar testes de funcionalidades web e APIs 
 1. Clone este repositório:  
 ```bash
 git clone https://github.com/wpetto/gms-projeto-teste.git
+
+2.Abre a pasta:  
 ```bash
 cd gms-projeto-teste
+
