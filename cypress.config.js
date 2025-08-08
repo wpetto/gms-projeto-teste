@@ -4,6 +4,7 @@ module.exports = defineConfig({
   e2e: {
     setupNodeEvents(on, config) {
     },
-    baseUrl: "http://127.0.0.1:8080/"
+    baseUrl: "http://127.0.0.1:8080/",
+    video: true
   },
 });
