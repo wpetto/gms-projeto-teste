@@ -5,6 +5,10 @@ describe('US001-Funcionalidade: Busca de filmes', () => {
     cy.visit('/')
   });
 
+  afterEach(() => {
+    cy.screenshot()
+  });
+
   //CT001 
   /*
   it('Busca de filmes com palavra-chave válida', () => {
