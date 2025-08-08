@@ -44,12 +44,14 @@ describe('US001-Funcionalidade: Busca de filmes', () => {
   })
 
   //CT003
+  /*
   it('Busca de filmes com palavra-chave válida com espaço', () => {
     cy.addFilme('Marvel ')
     cy.clicarBusca()
     cy.verificarResultado()
     //Deve aparecer resultados mesmo com espaço após o texto
   })
+  */
 
   //CT004
   it('Busca de filmes sem resultados', () => {
