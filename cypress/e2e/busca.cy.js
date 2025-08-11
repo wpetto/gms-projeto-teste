@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import "../../cypress/support/page/pageFilme"
+
 describe('US001-Funcionalidade: Busca de filmes', () => {
   beforeEach(() => {
     cy.visit('/')
